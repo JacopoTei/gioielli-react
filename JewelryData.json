@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Collana Diamante Elegante",
+      "category": "Collane",
+      "price": "$500",
+      "material": "Oro bianco, Diamanti",
+      "description": "Una splendida collana con un diamante centrale circondato da piccoli diamanti.",
+      "image": "https://www.scerminogioielli.it/25109-thickbox_default/collana-di-platino-con-diamanti-naturali-10-carati-sg05718.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bracciale in Argento con Zirconi",
+      "category": "Bracciali",
+      "price": "$250",
+      "material": "Argento, Zirconi",
+      "description": "Bracciale elegante con zirconi incastonati su una base in argento.",
+      "image": "https://luppologioiellieri.it/14893-large_default/bracciale-in-argento-semirigido-con-zirconi-a-cuoricino-120043-chi-mi-ama.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Orecchini Pendenti Eleganti",
+      "category": "Orecchini",
+      "price": "$150",
+      "material": "Platino, Perle",
+      "description": "Orecchini pendenti con perle circondate da un elegante design in platino.",
+      "image": "https://www.goldgallery.it/wp-content/uploads/2021/12/orecchini-donna-goldgallery-oro-sito-gioielli-ravenna-codice-17500002763.jpg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Anello di Fidanzamento Brillante",
+      "category": "Anelli",
+      "price": "$1200",
+      "material": "Oro giallo, Diamanti",
+      "description": "Un anello di fidanzamento con un grande diamante su una montatura in oro giallo.",
+      "image": "https://media.tiffany.com/is/image/Tiffany/EcomItemL2/anello-di-fidanzamento-tiffany-novo-taglio-brillante-con-fedina-in-platino-con-pav-di-diamanti-36680237_995670_ED_M.jpg?&op_usm=1.75,1.0,6.0&$cropN=0.1,0.1,0.8,0.8&defaultImage=NoImageAvailableInternal&"
+    },
+    {
+      "id": 5,
+      "name": "Collana Smeraldo con Catena",
+      "category": "Collane",
+      "price": "$800",
+      "material": "Argento, Smeraldo",
+      "description": "Una collana con un smeraldo incastonato su una catena di argento.",
+      "image": "https://store.gioiellidivalenza.com/235979/collana-in-oro-bianco-18k-con-smeraldo-a-goccia-contornato-da-diamanti-ref-CCON1974BBS.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bracciale di Perle Rosa",
+      "category": "Bracciali",
+      "price": "$180",
+      "material": "Perle, Argento",
+      "description": "Bracciale composto da perle rosa con una chiusura in argento.",
+      "image": "https://valentinagioielli.it/10018-large_default/bracciale-donna-di-perle-corallo-rosa-e-oro-mis-85-9-miluna.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Orecchini a Cerchio in Oro",
+      "category": "Orecchini",
+      "price": "$300",
+      "material": "Oro giallo",
+      "description": "Orecchini a cerchio classici in oro giallo.",
+      "image": "https://www.cicala.it/ProductsImages/1010/C3CF0D80-5270-4037-9183-CF41167C30FC.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Anello Rubino con Diamanti",
+      "category": "Anelli",
+      "price": "$900",
+      "material": "Oro rosa, Rubino, Diamanti",
+      "description": "Un anello con rubino centrale circondato da diamanti su una montatura in oro rosa.",
+      "image": "https://www.magigioielli.it/images/thumbs/0002747_anello-con-rubino-e-diamanti-classico-piccolo.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Collana con Pendente a Cuore",
+      "category": "Collane",
+      "price": "$350",
+      "material": "Argento, Cristallo",
+      "description": "Una collana con un pendente a cuore con cristalli incastonati su una catena in argento.",
+      "image": "https://www.gioielloro.it/upload/articoli/zoom/collana-con-ciondolo-cuore-di-diamanti-pendente-a-forma-di-cuoricino-gioielloro-156630.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bracciale in Pelle con Fibbia",
+      "category": "Bracciali",
+      "price": "$80",
+      "material": "Pelle, Acciaio",
+      "description": "Bracciale in pelle con una fibbia in acciaio per un look moderno.",
+      "image": "https://www.incisionegioielli.it/wp-content/uploads/2019/03/B13-BRACCIALE-PELLE-E-ACCIAIO.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Orecchini a Bottone in Argento",
+      "category": "Orecchini",
+      "price": "$120",
+      "material": "Argento",
+      "description": "Orecchini a bottone semplici ma eleganti in argento.",
+      "image": "https://www.altrostile.bio/wp-content/uploads/2023/09/12250-optimized.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Anello di Matrimonio in Platino",
+      "category": "Anelli",
+      "price": "$1500",
+      "material": "Platino",
+      "description": "Un anello di matrimonio classico e robusto in platino.",
+      "image": "https://www.salvadoridiamondatelier.com/wp-content/uploads/2021/01/THIS.jpeg"
+    }
+  ]
+  

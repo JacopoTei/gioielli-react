@@ -1,0 +1,48 @@
+body {
+    font-family: 'Comfortaa', sans-serif !important;
+    background-image: url(https://velicjewellery.com/cdn/shop/products/velic-jewellery-necklace-believe-in-magic-pearls-necklace-28998008635492_2048x2048.jpg?v=1646739311);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+
+
+
+  .card {
+    /* Altri stili della card */
+  
+    /* Aggiunta della transizione per transform e box-shadow */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Aumenta leggermente le dimensioni al passaggio del mouse */
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3); /* Aggiunge una leggera ombra */
+  }
+
+  .button {
+    background-color: rgb(59, 126, 135) !important;
+    color: white !important;
+    transition: background-color 0.3s ease; /* Aggiungi una transizione per un effetto più fluido */
+  }
+  
+  .button:hover {
+    background-color: #1d4146 !important; /* Colore scuro al passaggio del mouse */
+  }
+  
+
+  .linkF{
+    color: white !important;
+  }
+
+  .card-image {
+    width: 200px; /* Imposta la larghezza desiderata */
+    height: 350px; /* Imposta l'altezza desiderata */
+    object-fit: cover;
+    /* Altri stili, se necessario */
+  }
+
+.diamond{
+  width: 40px;
+  
+}
